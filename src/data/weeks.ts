@@ -1,0 +1,15 @@
+export const WEEK_FOCUS: string[] = [
+  "Setup. Weigh in. Pick a 10-hour eating window and fixed sleep and wake times.",
+  "Hit protein and fiber at least 5 of 7 days. Steps to 7,000 daily.",
+  "Kettlebells: log weights and reps, and beat one number each session.",
+  "Steps toward 8,500. A fermented food every day.",
+  "First check-in. If you average under 1 lb a week for 2 weeks, trim about 200 calories a day.",
+  "Steps to 10,000 on non-Jiu Jitsu days. Bedroom dark, cool, and screen-free.",
+  "Hold targets. Rotate a new vegetable into each pot.",
+  "Second check-in, same rule as week 5. Plan Thanksgiving.",
+  "Thanksgiving is Thursday Nov 26. Protein first, ruck or walk after, back on plan Friday.",
+  "Back to full targets. Before holiday parties, have a shake or a frittata square.",
+  "Hold targets. Keep sleep and wake times steady on weekends too.",
+  "Third check-in. Do not cut harder to chase a number; protect muscle.",
+  "Christmas is Friday Dec 25. Final weigh-in that morning.",
+];
